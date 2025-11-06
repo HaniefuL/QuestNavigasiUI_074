@@ -42,7 +42,11 @@ fun DataApp(
     }
 }
 
-private fun cancelAndBackToFormulirku()
+private fun cancelAndBackToFormulirku(
+    novController: NavHostController
+){
+
+}
 
 
 
